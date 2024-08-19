@@ -1,41 +1,42 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
-  title: 'Vitesse theme for Astro',
-  subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
-  description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
+  author: 'Lethanix',
+  themeAuthor: 'Kieran Wong',
+  title: 'Lethanix',
+  subtitle: 'Lethanix\'s portfolio and blog',
+  description: 'Portafolio and blog where I talk about cloud, linux and software development',
   image: {
     src: '/hero.jpg',
     alt: 'Website Main Image',
   },
-  email: 'kevinwong865@gmail.com',
+  email: 'me@lethanix.com',
   socialLinks: [
     {
       text: 'GitHub',
-      href: '',
+      href: 'https://github.com/lethanix',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
-    {
-      text: 'Twitter',
-      href: '',
-      icon: 'i-simple-icons-x',
-      header: 'i-ri-twitter-x-line',
-    },
+    // {
+    //   text: 'Twitter',
+    //   href: '',
+    //   icon: 'i-simple-icons-x',
+    //   header: 'i-ri-twitter-x-line',
+    // },
     {
       text: 'Linkedin',
-      href: '',
+      href: 'https://www.linkedin.com/in/louismurguia/',
       icon: 'i-simple-icons-linkedin',
     },
-    {
-      text: 'Instagram',
-      href: '',
-      icon: 'i-simple-icons-instagram',
-    },
-    {
-      text: 'Youtube',
-      href: '',
-      icon: 'i-simple-icons-youtube',
-    },
+    // {
+    //   text: 'Instagram',
+    //   href: '',
+    //   icon: 'i-simple-icons-instagram',
+    // },
+    // {
+    //   text: 'Youtube',
+    //   href: '',
+    //   icon: 'i-simple-icons-youtube',
+    // },
   ],
   header: {
     logo: {
@@ -80,13 +81,23 @@ export const siteConfig = {
   footer: {
     navLinks: [
       {
-        text: 'Posts Props',
-        href: '/posts-props',
+        text: 'Home',
+        href: '/',
       },
       {
-        text: 'Markdown Style',
-        href: '/md-style',
+        text: 'Projects',
+        href: '/projects',
       },
+      {
+        text: 'Blog',
+        href: '/blog',
+      },
+      {
+        text: 'GitHub',
+        href: 'https://github.com/lethanix',
+      },
+    ],
+    themeLinks: [
       {
         text: 'View on Astro',
         href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',

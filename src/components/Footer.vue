@@ -21,5 +21,7 @@ import { getLinkTarget } from '@/utils/link'
       <span op-70>&nbsp;&nbsp;&copy;&nbsp;&nbsp;{{ new Date().getFullYear() }}&nbsp;&nbsp;{{ siteConfig.author
       }}.</span>
     </div>
+    <span op-70><a nav-link href="https://astro.build/themes/details/vitesse-theme-for-astro/" target="_blank">Theme</a> made by {{ siteConfig.themeAuthor
+    }}.</span>
   </footer>
 </template>
