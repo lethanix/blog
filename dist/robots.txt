@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-  
-Sitemap: https://lethanix.github.io/portfolio/sitemap-index.xml
