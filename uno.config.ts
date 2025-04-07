@@ -47,6 +47,8 @@ export default defineConfig({
   ],
   transformers: [transformerDirectives(), transformerVariantGroup()],
   safelist: [
+    'i-simple-icons-maildotru',
+    'i-simple-icons-protonmail',
     'i-ri-file-list-2-line',
     'i-carbon-campsite',
     'i-simple-icons-github',

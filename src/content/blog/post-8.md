@@ -1,5 +1,5 @@
 ---
-title: Blog Title
+title: Minimum info
 description: The date and title fields are required.
 date: 2022-11-01
 ---

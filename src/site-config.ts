@@ -3,7 +3,7 @@ export const siteConfig = {
   themeAuthor: 'Kieran Wong',
   title: 'Lethanix',
   subtitle: 'Lethanix\'s portfolio and blog',
-  description: 'Portafolio and blog where I talk about cloud, linux and software development',
+  description: 'This is my portafolio and blog where I talk about cloud, linux and software development.',
   image: {
     src: '/hero.jpg',
     alt: 'Website Main Image',
@@ -16,17 +16,22 @@ export const siteConfig = {
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
+    {
+      text: 'Linkedin',
+      href: 'https://www.linkedin.com/in/louismurguia/',
+      icon: 'i-simple-icons-linkedin',
+    },
+    {
+      text: 'Mail',
+      href: 'mailto:me@lethanix.com',
+      icon: 'i-simple-icons-protonmail',
+    },
     // {
     //   text: 'Twitter',
     //   href: '',
     //   icon: 'i-simple-icons-x',
     //   header: 'i-ri-twitter-x-line',
     // },
-    {
-      text: 'Linkedin',
-      href: 'https://www.linkedin.com/in/louismurguia/',
-      icon: 'i-simple-icons-linkedin',
-    },
     // {
     //   text: 'Instagram',
     //   href: '',
