@@ -6,7 +6,8 @@ import vue from '@astrojs/vue'
 
 export default defineConfig({
   // site: 'https://astro-theme-vitesse.netlify.app/',
-  site: 'https://blog.lethanix.sh/',
+  site: 'https://lethanix.github.io/portfolio/',
+  // site: 'https://blog.lethanix.sh/',
   server: {
     port: 1977,
   },
