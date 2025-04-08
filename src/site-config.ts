@@ -2,8 +2,8 @@ export const siteConfig = {
   author: 'Lethanix',
   themeAuthor: 'Kieran Wong',
   title: 'Lethanix',
-  subtitle: 'Lethanix\'s portfolio and blog',
-  description: 'This is my portafolio and blog where I talk about cloud, linux and software development.',
+  subtitle: 'Lethanix\'s blog',
+  description: 'I\'m Louis (aka Lethanix) and this is my blog where I talk about cloud, linux and software development.',
   image: {
     src: '/hero.jpg',
     alt: 'Website Main Image',
