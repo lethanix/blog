@@ -119,7 +119,3 @@ awk -F'"' '{print $6}' $LOG | sort | uniq -c | sort -nr | head -5 \
 | awk '{count=$1; $1=""; printf "%s - %d requests\n", $0, count}'
 
 ```
-
----
-
-This is based on the project from roadmap.sh [Nginx Log Analyser](https://roadmap.sh/projects/nginx-log-analyser).

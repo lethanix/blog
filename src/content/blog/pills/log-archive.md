@@ -79,7 +79,3 @@ tar czf "$LOCATION.tar.gz" $1
 ## Display location of archive
 echo Directory archived at: $LOCATION
 ```
-
----
-
-This is based on the project from roadmap.sh [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool).
