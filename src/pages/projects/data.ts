@@ -43,7 +43,7 @@ export const projectData: ProjectData = [
     // ],
   },
   {
-    title: 'Command Line Tools',
+    title: 'CLI Tools',
     projects: [
       {
         text: 'Log Archive Tool',
