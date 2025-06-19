@@ -6,7 +6,6 @@ date: 2025-06-17
 tag: 
     aws
     draft
-draft: true
 ---
 
 Amazon Connect is an amazing and complex service that allow us to create Contact Centers that fit our business need. AWS receantly release a new feature where we can create AI Agents that can help out our service agents to assist the clients, or even help them directly with the Self-Service feature. All thanks to the help of the Amazon Q service.
