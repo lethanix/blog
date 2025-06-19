@@ -83,8 +83,8 @@ aws connect create-integration-association \
 ```
 
 ## Resources
-[1] CreateAssistant - https://docs.aws.amazon.com/amazon-q-connect/latest/APIReference/API_CreateAssistant.html
-[2] CreateKnowledgeBase - https://docs.aws.amazon.com/amazon-q-connect/latest/APIReference/API_CreateKnowledgeBase.html
-[3] CreateAssistantAssociation - https://docs.aws.amazon.com/amazon-q-connect/latest/APIReference/API_CreateAssistantAssociation.html
-[4] CreateIntegrationAssociation - https://docs.aws.amazon.com/connect/latest/APIReference/API_CreateIntegrationAssociation.html
+1. [CreateAssistant API](https://docs.aws.amazon.com/amazon-q-connect/latest/APIReference/API_CreateAssistant.html)
+2. [CreateKnowledgeBase API](https://docs.aws.amazon.com/amazon-q-connect/latest/APIReference/API_CreateKnowledgeBase.html)
+3. [CreateAssistantAssociation API](https://docs.aws.amazon.com/amazon-q-connect/latest/APIReference/API_CreateAssistantAssociation.html)
+4. [CreateIntegrationAssociation API](https://docs.aws.amazon.com/connect/latest/APIReference/API_CreateIntegrationAssociation.html)
 
